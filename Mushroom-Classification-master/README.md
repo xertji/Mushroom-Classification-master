@@ -1,6 +1,6 @@
 # Mushroom-Classification
 
-CLassification of mushrooms into two categories: Edible and Non-Edible
+Classification of mushrooms into two categories: Edible and Non-Edible
 
 This data is taken from kaggle.
 
